@@ -5,7 +5,7 @@ go 1.19
 require (
 	cloud.google.com/go v0.38.0
 	github.com/aryann/difflib v0.0.0-20170710044230-e206f873d14a
-	github.com/aws/aws-sdk-go v1.30.7
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/bkaradzic/go-lz4 v1.0.0
 	github.com/gilbertchen/azure-sdk-for-go v14.1.2-0.20180323033227-8fd4663cab7c+incompatible
 	github.com/gilbertchen/cli v1.2.1-0.20160223210219-1de0a1836ce9
