@@ -18,7 +18,7 @@ require (
 	github.com/gilbertchen/xattr v0.0.0-20160926155429-68e7a6806b01
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/klauspost/compress v1.16.3
-	github.com/klauspost/reedsolomon v1.9.9
+	github.com/klauspost/reedsolomon v1.14.0
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1
 	github.com/minio/highwayhash v1.0.2
 	github.com/ncw/swift/v2 v2.0.1
@@ -48,11 +48,9 @@ require (
 	github.com/jmespath/go-jmespath v0.3.0 // indirect
 	github.com/jtolio/eventkit v0.0.0-20221004135224-074cf276595b // indirect
 	github.com/jtolio/noiseconn v0.0.0-20230111204749-d7ec1a08b0b8 // indirect
-	github.com/klauspost/cpuid v1.3.1 // indirect
-	github.com/klauspost/cpuid/v2 v2.0.12 // indirect
+	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/marstr/guid v1.1.0 // indirect
-	github.com/mmcloughlin/avo v0.0.0-20200803215136-443f81d77104 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/segmentio/go-env v1.1.0 // indirect
@@ -62,12 +60,10 @@ require (
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	github.com/zeebo/errs v1.3.0 // indirect
 	go.opencensus.io v0.22.3 // indirect
-	golang.org/x/mod v0.30.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
 	golang.org/x/sys v0.39.0 // indirect
 	golang.org/x/term v0.38.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
-	golang.org/x/tools v0.39.0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20200409111301-baae70f3302d // indirect
 	google.golang.org/grpc v1.79.3 // indirect
