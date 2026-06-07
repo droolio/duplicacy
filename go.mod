@@ -1,6 +1,6 @@
 module github.com/gilbertchen/duplicacy
 
-go 1.19
+go 1.23.0
 
 require (
 	cloud.google.com/go v0.38.0
@@ -27,7 +27,7 @@ require (
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	golang.org/x/crypto v0.12.0
 	golang.org/x/net v0.10.0
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
+	golang.org/x/oauth2 v0.27.0
 	google.golang.org/api v0.21.0
 	storj.io/uplink v1.12.1
 )
